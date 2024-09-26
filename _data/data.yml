@@ -13,14 +13,14 @@ sidebar:
     avatar: logoava.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ava.anh.ying@gmail.com
+    email: ava@gmail.com
     phone: 012 345 6789
-    timezone: Vietnam Timezone
-    citizenship: Vietnamese
-    website: ava.infinityfreeapp.com #do not add http://
-    linkedin: ava-ly
+    timezone: US Timezone
+    citizenship: American
+    website: ava-ly.com #do not add http://
+    linkedin: 
     xing: 
-    github: ava-ly
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
